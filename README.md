@@ -46,7 +46,4 @@ By using this application, you acknowledge that you have read and agree to the t
    <table>   
     
     
-   
-
-# Demo
-https://user-images.githubusercontent.com/124601363/219984918-18efeae6-9c4a-4611-9641-660da41cd9a5.mov
+ 
