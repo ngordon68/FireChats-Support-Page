@@ -82,8 +82,7 @@ Messages, AVKit, LottieFiles, UIKit
    
    
    
-   
-    # Privacy Policy
+# Privacy Policy
     
     
 Thank you for using our iOS application. This Privacy Policy describes how we collect, use, and share information about you when you use our application.
