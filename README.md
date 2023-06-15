@@ -1,4 +1,4 @@
-# FireChats-info
+# FireChats-Support Page
 <img width="100" alt="Screen Shot 2023-02-15 at 8 14 27 AM" src="https://github.com/ngordon68/Challenge6/assets/102773701/a7e7b6bf-ce8b-45b7-83d7-3a1610ae1e5e.png">
   
 # Privacy Policy
